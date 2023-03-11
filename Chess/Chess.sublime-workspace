@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"y",
+				"y_add"
+			],
+			[
+				"po",
+				"potential_pin"
+			],
+			[
+				"cur",
+				"current_piece"
+			],
+			[
+				"potential",
+				"potential_block"
+			],
+			[
+				"cu",
+				"current_piece_coord"
+			],
+			[
+				"s",
+				"sign"
+			],
+			[
+				"curr",
+				"current_piece3"
+			],
+			[
+				"hei",
+				"height2"
+			],
+			[
+				"mo",
+				"move_left"
+			],
+			[
+				"pre",
+				"press"
+			],
+			[
+				"prevous",
+				"previous_numbers"
+			],
+			[
+				"previo",
+				"previous_numbers"
+			],
+			[
+				"x",
+				"xdeviation"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"C",
+				"Check_winner"
+			],
+			[
+				"Bo",
+				"Board_Width"
+			],
+			[
+				"player",
+				"player_pong2"
+			],
+			[
+				"if",
+				"difficulty"
+			],
+			[
+				"x_",
+				"x_done"
+			],
+			[
+				"nu",
+				"Null_Board"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"Snae",
+				"Snake_class"
+			],
+			[
+				"B",
+				"Board_direction"
+			],
+			[
+				"bod",
+				"body_direction"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"Bod",
+				"body_direction"
+			],
+			[
+				"snak",
+				"Snake_class_array"
+			],
+			[
+				"c",
+				"change_direction"
+			],
+			[
+				"H",
+				"Held_piece_class"
+			],
+			[
+				"fin",
+				"finished2"
+			],
+			[
+				"pote",
+				"potential_block1"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"ke",
+				"keyup"
+			],
+			[
+				"Block",
+				"block1"
+			],
+			[
+				"bl",
+				"block1"
+			],
+			[
+				"block1",
+				"block1_smooth"
+			],
+			[
+				"next",
+				"next_piece_board"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"Remote: Host Session",
+				"Remote: Host Session"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Flappy Bird/Flappy Bird.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Flappy Bird/Flappy Bird.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Dinosaur Game/Dinosaur Game.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris V1/Metris_saves_more.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris V1/Metris.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/2048/2048_Backup.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/2048/2048.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/2048/test.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/2048/test.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris V1/Metris_saves.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tic Tac Toe/Tic Tac Toe.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tic Tac Toe/Tic Tac Toe.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Connect 4/Connect 4.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Pong/Pong.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Connect 4/manifest.json",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Snake/Pong.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Pong/manifest.json",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris V1/manifest.json",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Snake/manifest.json",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Snake/Snake.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Snake/Snake_Backup.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Snake/Snake_Backup2.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Snake/Snake.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Snake/Snake_Backup1.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Snake/Metris.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris/manifest.json",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris V1/Logo.png",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris V1/PressStart2P-Regular.ttf",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris/Tetris.html",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris/Tetris.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris/Tetris_colours.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris/Tetris_saves.js",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris/Font",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris/Tetris_smooth.js",
+		"/C/Users/meyer/Desktop/Coding/Python/Random.py",
+		"/C/Users/meyer/AppData/Roaming/Sublime Text/Packages/User/JavaScript.sublime-build",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris.js",
+		"/C/Users/meyer/AppData/Roaming/Sublime Text/Packages/User/JavaScript.sublime-build in",
+		"/C/Users/meyer/Desktop/Coding/JavaScript/Tetris1.html",
+		"/C/Users/meyer/Desktop/Tetris.html"
+	],
+	"find":
+	{
+		"height": 23.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.3333333333
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Chess.sublime-project",
+	"replace":
+	{
+		"height": 42.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

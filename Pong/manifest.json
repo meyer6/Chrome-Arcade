@@ -1,0 +1,19 @@
+{
+  "name": "Pong",
+  "description" : "Pong game in your browser",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "Pong.html",
+    "default_icon": "Logo.png"
+  },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+F"
+      },
+      "description": "Pong game in your browser"
+    }
+  }
+}
