@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Meyer Arcade",
+  "description": "A selection of cool games all in your browser",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "Logo.png",
+    "default_popup": "Chrome_Arcade.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
