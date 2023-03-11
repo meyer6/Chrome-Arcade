@@ -1,0 +1,19 @@
+{
+  "name": "Metris",
+  "description" : "A fun arcade game in your browser. Never be bored again. Don't worry if you close it, it saves your progress",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "Metris.html",
+    "default_icon": "Logo.png"
+  },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+F"
+      },
+      "description": "A fun arcade game in your browser. Never be bored again. Don't worry if you close it, it saves your progress"
+    }
+  }
+}
