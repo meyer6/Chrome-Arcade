@@ -9,7 +9,7 @@ Minesweeper,
 Tetris,
 Pong <br/>
 
-Some Images:
+Some Images:<br/>
 ![image](https://github.com/meyer6/Chrome-Arcade/assets/69467554/f35ca0ca-84e9-4f8d-9f7c-b437a105bccf)
 ![image](https://github.com/meyer6/Chrome-Arcade/assets/69467554/05b60a3c-211b-4bd0-bf47-5701d73dffca)
 ![image](https://github.com/meyer6/Chrome-Arcade/assets/69467554/628a9c05-dd27-4ce4-a9c8-1d4c9b80d84b)
