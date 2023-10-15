@@ -1,7 +1,7 @@
 # Chrome-Arcade
 Chrome extension with 15+ games including:
 <table border="0">
- <tr>
+ <tr border="0">
     <td><ul>
       <li>Chess</li>
     </ul></td>
