@@ -1,13 +1,28 @@
 # Chrome-Arcade
-Chrome extension with many games
+Chrome extension with 15+ games including:
+- Chess
+- Tetris
+- 2048
+- Blockade
+- Checkers
+- Connect 4
+- Dinosaur Game
+- Dots & Boxes
+- Jet Fighter
+- Minesweeper
+- Othello
+- Snake
+- Tetris
+- Tic Tac Toe
+- Wordle
 
-Was distrbuted to 40+ people at my school
+Was distrbuted to 40+ people at my school  
 
 I also coded ai's (not available in the chrome extension) for the following games:
-Jet Fighter,
-Minesweeper,
-Tetris,
-Pong <br/>
+- Jet Fighter
+- Minesweeper
+- Tetris
+- Pong
 
 Some Images:<br/>
 ![image](https://github.com/meyer6/Chrome-Arcade/assets/69467554/f35ca0ca-84e9-4f8d-9f7c-b437a105bccf)
