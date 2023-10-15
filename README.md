@@ -1,6 +1,16 @@
 # Chrome-Arcade
 Chrome extension with 15+ games including:
-- Chess
+<table border="0">
+ <tr>
+    <td><ul>
+      <li>Chess</li>
+    </ul></td>
+      <td><ul>
+      <li>Tetris</li>
+    </ul></td>
+ </tr>
+</table>
+- 
 - Tetris
 - 2048
 - Blockade
